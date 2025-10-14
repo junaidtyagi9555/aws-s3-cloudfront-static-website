@@ -1,20 +1,19 @@
 # Static Website Hosting on AWS S3 + CloudFront
 
-## Overview
+![AWS Architecture](assets/architecture-diagram.png)
+
+## 📋 Project Overview
 This project demonstrates hosting a static website using AWS S3 and distributing it globally with CloudFront CDN and HTTPS via AWS Certificate Manager.
 
-## Tools Used
-- Amazon S3
-- AWS CloudFront
-- AWS Route 53
-- AWS Certificate Manager
+## 🚀 Live Demo
+- **CloudFront URL**: `d8w9nabhbnvb3.cloudfront.net`
+- **Custom Domain**: `www.junaidtyagi.click`
 
-## Steps Implemented
-1. Created S3 bucket and enabled static website hosting.
-2. Configured bucket policy for public access.
-3. Created CloudFront distribution for content delivery.
-4. Implemented HTTPS using ACM certificate.
-5. Verified global access through CloudFront URL.
+## 🛠️ Technologies Used
+- **Amazon S3** - Static website hosting
+- **AWS CloudFront** - Content Delivery Network (CDN)
+- **AWS Certificate Manager** - SSL/TLS certificates
+- **Route 53** - DNS management
+- **Terraform** - Infrastructure as Code
 
-## Outcome
-Website successfully hosted and globally accessible via CloudFront with secure HTTPS.
+## 📁 Project Structure
