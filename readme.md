@@ -22,7 +22,8 @@ Website successfully hosted and globally accessible via CloudFront with secure H
 ## Screenshots
 | Description | Screenshot |
 |--------------|-------------|
-| S3 Bucket Setup | ![S3 Bucket](screenshots/s3-bucket.png) |
-| Bucket Policy | ![Bucket Policy](screenshots/bucket-policy.png) |
-| CloudFront Distribution | ![CloudFront](screenshots/cloudfront-distribution.png) |
-| Final Website Result | ![Website Result](screenshots/website-result.png) |
+| S3 Bucket Setup | ![S3 Bucket](s3-bucket.png) |
+| Bucket Policy | ![Bucket Policy](bucket-policy.png) |
+| CloudFront Distribution | ![CloudFront](cloudfront-distribution.png) |
+| Final Website Result | ![Website Result](website-result.png) |
+
